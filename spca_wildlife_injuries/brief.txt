@@ -1,0 +1,49 @@
+Wildlife Injuries
+
+ 
+
+We would like to understand
+
+ 
+
+·         If there are a trend in injuries By Region, and is there different peaks of times of year per region.
+
+·         Analysis on the types of animals that are injured, this also by Region – is there a species that is more liable to injury in certain regions?
+
+·         Species by time of year, which are the animals that are prone to injuries at certain times of the year.
+
+·         Total call volume for Advice calls how has this trended over the last two years
+
+·         Business Intelligence – using the insights you have found, can you predict how this might look for 2021 – including predicted call volumes, can you see this increasing/decreasing/staying on trend
+
+ 
+
+Categorised
+
+ 
+
+·         The description field to be cleansed and categorised into types of call/injuries.
+
+ 
+
+ 
+
+Anonymised
+
+ 
+
+·         Description field not to be used for presentation purposes or sharing on GitHub as this is considered sensitive data.  
+
+ 
+
+ 
+
+Synthesised/Randomised
+
+ 
+
+·         The categories and the data to be mixed so they can’t be matched to location/call.
+
+ 
+
+·         Example: Person might share on Facebook they have called SSPCA – in the data they might be able to identify themselves or others may be able to.
