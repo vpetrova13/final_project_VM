@@ -1,0 +1,9 @@
+Date saved: 06 Feb 2021, 13:46 
+Data frame with original data: original_data 
+Number of synthetic data sets: 1 
+Output file(s):(csv) synthetic_wildlife.csv
+Additional file: synobject_synthetic_wildlife.RData
+Methods used:
+CALL_SAVED_TIME     CALL_REGION  CA_ANIMAL_TYPE reason_for_call   type_of_calls 
+             ""        "sample"          "cart"          "cart"          "cart" 
+Seed used: 354130151 
