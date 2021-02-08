@@ -4,7 +4,7 @@ import numpy as np
 import datetime
 
 #read data and combine
-data = pd.read_excel('../spca_wildlife_injuries/wildlife_data_clean.xlsx', sheet_name = None, engine='openpyxl')
+data = pd.read_excel('../wildlife_data_clean.xlsx', sheet_name = None, engine='openpyxl')
 wildlife_data_clean = pd.concat(data, ignore_index=True)
 
 #remove missing data or fill missing
