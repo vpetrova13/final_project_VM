@@ -11,7 +11,7 @@ original_data <- original_data  %>%
   mutate(reason_for_call = as.factor(reason_for_call)) %>% 
   mutate(type_of_calls = as.factor(type_of_calls)) %>% 
   select(CALL_SAVED_TIME, everything()) %>% 
-  mutate(CALL_SAVED_TIME = as_datetime(CALL_SAVED_TIME)) 
+  mutate(CALL_SAVED_TIME = as.factor(CALL_SAVED_TIME)) 
 
 #examine my data
 codebook.syn(original_data)
