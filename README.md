@@ -9,7 +9,7 @@ The organisation was primarily interested in wildlife injuries' trends by region
 Raw data contained free text data and there were no numbers at all. It covered the last three years: 2018, 2019 and 2020 (up to May). There were 4 main columns: description of call, region, time of when a call was reported and animal type. 
 
 **Description column contained a sensitive data** and so it was removed after the cleaning step. Also for demo purposes a fake data was mocked up to mimic data that the organisation may collect. It also contained 2-5 extra unnamed columns and after the first data exploration, it was discovered to contain a shifted data because of the excess text in call description column. 
-#### How I tackled the cleaning problems can be seen in [data cleaning scripts](data_cleaning_scripts)
+#### How I tackled the cleaning problems can be seen in [data cleaning scripts.](data_cleaning_scripts)
 
 #### **Briefly** and some steps that I did were: 
 * Combined 3 datasets into one & filtered shifted data and assigned it manually.
