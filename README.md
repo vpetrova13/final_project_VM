@@ -52,7 +52,8 @@ Raw data contained free text data and there were no numbers at all. It covered t
 * Rescue is the second reason for calls after injuries.
 
 ## Future Proposal
-* With text data there are more uncertainty. Even though, it extracts a word but it can have different meaning in different text. 
+* With text data there are more uncertainty. Even though, it extracted a word but it can
+*  have different meaning in different text. 
 * Dictionary of ‘keywords’ can be completely different for the next dataset.
 * Create a function for shifting data based on region column. As it was only 40-50 rows affected by shifting out of 150,000, it was acceptable to do it manually. 
 * Filter the injuries and analyse type of injuries. It would answer why Manchester has the most injuries - whether it due to road traffic accidents or anything else? 
