@@ -23,7 +23,7 @@ Raw data contained free text data and there were no numbers at all. It covered t
 
 
 ## Some plots demonstrating the insights
-#### More plots and analysis can be seen in [analysis and documentation folder.](analysis_and_documentation/wildlife_synthetic_analysis.ipynb)
+#### More plots and analysis can be seen in [analysis and documentation folder.](analysis_and_documentation)
 ![Injuries by regions](images/regions.png)
 ![Injuries by regions and time](images/regions_time.png)
 ![Animals types by regions](images/animals_regions.png)
